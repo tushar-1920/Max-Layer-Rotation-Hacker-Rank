@@ -3,7 +3,7 @@
 This repository contains my **C solution** for the HackerRank problem **"Matrix Layer Rotation"**.
 
 📌 **Difficulty:** Medium  
-🔗 **Problem Link:** https://www.hackerrank.com/challenges/matrix-rotation-algo/problem  mmmm
+🔗 **Problem Link:** https://www.hackerrank.com/challenges/matrix-rotation-algo/problem  mmm
 
 ---
 
