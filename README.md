@@ -5,7 +5,7 @@ This repository contains my **C solution** for the HackerRank problem **"Matrix 
 📌 **Difficulty:** Medium  
 🔗 **Problem Link:** https://www.hackerrank.com/challenges/matrix-rotation-algo/problem  
 
---- gg
+--- 
 
 ## ✅ Problem Summary
 Given a matrix, rotate each “layer” (ring) of the matrix **anti-clockwise** by `R` rotations, while maintaining the layered structure.
